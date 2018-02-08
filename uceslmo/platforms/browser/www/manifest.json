@@ -1,10 +1,10 @@
 {
   "background_color": "#FFF",
   "display": "standalone",
-  "name": "Material Design Dashboard Template",
-  "short_name": "Material Design Dashboard Template",
+  "name": "Material Design Dashboard Piecharts",
+  "short_name": "Material Design Dashboard Piecharts",
   "version": "fullmaterialtemplate",
-  "description": "Material Design dashboard template app.",
+  "description": "Material Design dashboard template piecharts only.",
   "author": "Material Design Lite",
   "icons": [],
   "start_url": "index.html"
