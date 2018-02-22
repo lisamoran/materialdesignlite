@@ -1,10 +1,10 @@
 {
   "background_color": "#FFF",
   "display": "standalone",
-  "name": "Material Design Dashboard Template",
-  "short_name": "Material Design Dashboard Template",
+  "name": "Material Design Demo Charts Template",
+  "short_name": "Material Design Demo Charts Template",
   "version": "fullmaterialtemplate",
-  "description": "Material Design dashboard template app.",
+  "description": "Material Design demo charts app from dashboard template.",
   "author": "Material Design Lite",
   "icons": [],
   "start_url": "index.html"
