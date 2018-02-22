@@ -1,10 +1,10 @@
 {
   "background_color": "#FFF",
   "display": "standalone",
-  "name": "Material Design Dashboard Template",
-  "short_name": "Material Design Dashboard Template",
+  "name": "Material Design Checkboxes and Puppy Template",
+  "short_name": "Material Design Checkboxes and Puppy Template",
   "version": "fullmaterialtemplate",
-  "description": "Material Design dashboard template app.",
+  "description": "Material Design checkboxes and puppy app from dashboard template.",
   "author": "Material Design Lite",
   "icons": [],
   "start_url": "index.html"
